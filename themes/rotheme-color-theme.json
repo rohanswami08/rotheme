@@ -709,14 +709,16 @@
       "name": "Storage",
       "scope": "storage",
       "settings": {
-        "foreground": "#c678dd"
+        "foreground": "#c678dd",
+        "fontStyle": "italic"
       }
     },
     {
       "name": "Storage JS TS",
       "scope": "token.storage",
       "settings": {
-        "foreground": "#c678dd"
+        "foreground": "#c678dd",
+        "fontStyle": "italic"
       }
     },
     {
