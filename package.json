@@ -14,7 +14,7 @@
       {
         "label": "rotheme",
         "uiTheme": "vs-dark",
-        "path": "./themes/rotheme-color-theme.json"
+        "path": "./themes/rotheme.json"
       }
     ]
   }
