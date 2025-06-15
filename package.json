@@ -12,7 +12,7 @@
   "contributes": {
     "themes": [
       {
-        "label": "rotheme",
+        "label": "OneDark Custom",
         "uiTheme": "vs-dark",
         "path": "./themes/rotheme-color-theme.json"
       }
